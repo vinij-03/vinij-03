@@ -11,6 +11,8 @@
 
 ---
 
+<img align="right" width="400" src="https://github.com/vinij-03/vinij-03/blob/main/images/hacker-thinking-about-code.gif" />
+
 # Bio
 
 - 🔭 I’m currently working on React
@@ -28,6 +30,7 @@
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/vineet-jana-6670b321a)
 
 ---
+<br>
 
 # Technologies
 <p align="center">
@@ -52,3 +55,7 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-                                                               badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
+
+---
+
+
