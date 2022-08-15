@@ -1,20 +1,20 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&lines=Hi+%F0%9F%91%8B%2C+I'm+Vineet+)](https://git.io/typing-svg)
+<h3 align="left">
+  I am a learning WEB developer 
+</h3>
 
-<h1 align="center">Hi 👋, I'm Vineet Jana</h1>
-<h3 align="center">I am a learning WEB developer from West Bengal , India</h3>
-
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=vinij-03&style=for-the-badge&color=blue" />
   <a href="https://github.com/vinij-03?tab=followers">
     <img src="https://img.shields.io/github/followers/vinij-03?tab=followers?label=blue&logo=github&style=for-the-badge"        alt="GitHub badge" />
   </a>
 </p>
-<br>
 
 ---
 
 <img align="right" width="400" src="https://github.com/vinij-03/vinij-03/blob/main/images/hacker-thinking-about-code.gif" />
 
-# Bio
+## Bio
 
 - 🔭 I’m currently working on React
 
@@ -31,9 +31,8 @@
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/vineet-jana-6670b321a)
 
 ---
-<br>
 
-# Technologies
+## Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -58,5 +57,12 @@
 </p>
 
 ---
+
+## My Stats
+
+![Metrics](https://metrics.lecoq.io/vinij-03?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
+
+![Vineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinij-03&show_icons=true&theme=radical)
+
 
 
