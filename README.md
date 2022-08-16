@@ -24,7 +24,7 @@
 
 - 🤝 I’m looking for help with **Android UI Development**
 
-- 👨‍💻 All of my projects are available at [GitHub]((https://github.com/vinij-03))
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/vinij-03)
 
 - 💬 Ask me about **Web and Android**
 
