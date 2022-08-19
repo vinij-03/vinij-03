@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&lines=Hi+%F0%9F%91%8B%2C+I'm+Vineet+)](https://git.io/typing-svg)
-<h3 align="left">
+<p align="left">
   Hey I am a CSE undergraduate from India. I'm currently working on web development projects . I got few of my projects hosted on GitHub. Right Now learning Android UI development using Flutter. Also Learning new stacks for web. 
-</h3>
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vinij-03&style=for-the-badge&color=blue" />
