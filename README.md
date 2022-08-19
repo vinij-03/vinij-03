@@ -16,9 +16,9 @@
 
 ## Bio
 
-- 🔭 I’m currently working on React
+- 🔭 I’m currently working on <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="20">
 
-- 🌱 I’m currently learning **React and Vue**
+- 🌱 I’m currently learning **<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="20"> and <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="20">**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Technologies
+## ⚡ Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -58,11 +58,15 @@
 
 ---
 
-## My Stats
+## 📊 My Stats
 
 ![Metrics](https://metrics.lecoq.io/vinij-03?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 
 ![Vineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinij-03&show_icons=true&theme=radical)
+
+----
+## 😂 A Joke For You
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 
 
