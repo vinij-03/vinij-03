@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="20">
 
-- 🌱 I’m currently learning **<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="20"> and <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="20">**
+- 🌱 I’m currently learning **<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="20"> and <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" width="20">**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
