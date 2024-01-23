@@ -58,15 +58,7 @@
 
 ---
 
-## 📊 My Stats
-  
-![Metrics](https://metrics.lecoq.io/vinij-03?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 
-<!-- ![Vineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinij-03&show_icons=true&theme=tokyonight) -->
-
-----
-## 😂 A Joke For You
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 
 
