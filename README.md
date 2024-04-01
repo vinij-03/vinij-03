@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&lines=Hi+%F0%9F%91%8B%2C+I'm+Vineet+)](https://git.io/typing-svg)
 <p align="left">
-  Hey I am a CSE undergraduate from India. I'm currently working on web development projects . I got few of my projects hosted on GitHub. Right Now I'm working on projects of 3D web development . Also upgrading my tech stack for web development . 
+ I'm a CSE undergrad and tech enthusiast in India, co-founding Twinverse Technology. With a passion for AR, VR, and spatial computing, I've showcased my work at international exhibitions and proudly won the Gitex YouthX 2022 in Dubai. I'm dedicated to blurring the lines between reality and the virtual world, shaping the future of tech 
 </p>
 
 <p align="left">
