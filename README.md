@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on **3D Projects**
 
-- 🤝 I’m looking for help with **Developmnet in Coumpueter Vision**
+- 🤝 I’m looking for help with **Coumpueter Vision Projects**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/vinij-03)
 
