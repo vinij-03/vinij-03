@@ -20,13 +20,13 @@
 
 - 🌱 I’m currently learning **<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="20"> and <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" width="20">**
 
-- 👯 I’m looking to collaborate on **Frontend projects**
+- 👯 I’m looking to collaborate on **3D Projects**
 
-- 🤝 I’m looking for help with **Android UI Development**
+- 🤝 I’m looking for help with **Developmnet in Coumpueter Vision**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/vinij-03)
 
-- 💬 Ask me about **Web and Android**
+- 💬 Ask me about **WEB XR**
 
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/vineet-jana-6670b321a)
 
